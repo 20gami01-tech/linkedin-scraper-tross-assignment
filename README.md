@@ -143,7 +143,7 @@ render.yaml           Optional one-click Render.com blueprint
 ### 1. Clone and install
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/20gami01-tech/linkedin-scraper-tross-assignment
 cd linkedin-profile-api
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
