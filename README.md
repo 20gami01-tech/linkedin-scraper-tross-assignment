@@ -360,3 +360,4 @@ MIT — see your own fork; add a `LICENSE` file if your submission requires one.
 # linkedin-scraper-tross-assignment
 # linkedin-scraper-tross-assignment
 # linkedin-scraper-tross-assignment
+# linkedin-scraper-tross-assignment
