@@ -341,3 +341,4 @@ built-in TLS termination) to serve it over HTTPS.
 ## License
 
 MIT — see your own fork; add a `LICENSE` file if your submission requires one.
+# linkedin-scraper-tross-assignment
