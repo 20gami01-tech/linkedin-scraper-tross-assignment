@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: linkedin-profile-api
+    env: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: API_KEY
+        sync: false
+      - key: CACHE_TTL_SECONDS
+        value: "3600"
